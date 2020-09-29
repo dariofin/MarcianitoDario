@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MarcianitoDario</string>
-    <string name="bienvenida">Bienvenido</string>
-    <string name="fondo">Fondo de pantalla Marcianito</string>
+    <string name="bienvenida">Bem-vinda</string>
+    <string name="fondo">Papel de parede</string>
     <string name="title_activity_main2">MainActivity</string>
     <string name="nav_header_title">Marcianito</string>
     <string name="boton">Entrar</string>
